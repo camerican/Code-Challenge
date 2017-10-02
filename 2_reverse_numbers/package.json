@@ -1,0 +1,11 @@
+{
+  "name": "reverse_numbers",
+  "version": "1.0.0",
+  "description": "Reverse Numbers code challenge #2.",
+  "main": "reverseNumbers.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "NYCDA / Cam",
+  "license": "ISC"
+}

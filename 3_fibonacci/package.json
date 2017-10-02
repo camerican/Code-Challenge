@@ -1,0 +1,11 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "Fibonacci sequence code challenge #3.",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "NYCDA / Cam",
+  "license": "ISC"
+}

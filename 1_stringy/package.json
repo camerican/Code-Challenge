@@ -1,0 +1,11 @@
+{
+  "name": "stringy",
+  "version": "1.0.0",
+  "description": "Stringy code challenge #1.",
+  "main": "stringy.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "NYCDA / Cam",
+  "license": "ISC"
+}
