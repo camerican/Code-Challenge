@@ -1,0 +1,11 @@
+{
+  "name": "validate_email",
+  "version": "1.0.0",
+  "description": "Validate email code challenge #5.",
+  "main": "validateEmail.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "NYCDA / Cam",
+  "license": "ISC"
+}

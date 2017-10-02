@@ -14,7 +14,4 @@ Coupon.prototype.checkCoupon = function(){
 var superSaver = new Coupon("America","July 4, 2017");
 var eoyPromo = new Coupon("ENJOY2017","December 31, 2016");
 
-module.exports = {
-  checkCoupon: checkCoupon,
-  Coupon: Coupon
-};
+module.exports = Coupon;

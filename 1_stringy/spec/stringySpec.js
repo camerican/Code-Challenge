@@ -1,5 +1,5 @@
 stringy = require('../stringy.js');
-
+console.log(stringy, stringy(3));
 describe("UnitTests", function() {
 
   it("small_test", function() {

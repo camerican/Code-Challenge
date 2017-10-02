@@ -1,3 +1,5 @@
+Coupon = require("../checkCoupon.js");
+
 describe("UnitTests", function() {
 
   it("valid_coupon_confirm", function() {

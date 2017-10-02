@@ -1,3 +1,5 @@
+validEmail = require("../validateEmail");
+
 describe("UnitTests", function() {
   it("character_at_beginning", function() {
     // Failure message:
